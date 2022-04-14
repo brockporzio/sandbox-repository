@@ -1,4 +1,4 @@
 # sandbox-repository
-Here is my git repository built for testing and learning. Let's "Git" started.
+Here is my first GitHub repository. Let's get started with GitHub
 
-README.md file was just eddited manually.
+README.md file was just edited manually. One more edit at GitHub
