@@ -5,3 +5,5 @@ README.md file was just eddited manually. This file was eddited locally.
 
 New line was added locally.
 
+Let's make one more change at the moment.
+
